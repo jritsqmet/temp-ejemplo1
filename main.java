@@ -11,5 +11,6 @@ public class main {
         nombre = entrada.nextLine();
 
         System.out.println("El nombre es "+ nombre);
+        System.out.println("EL usuario vive en Quito");
     }
 }
