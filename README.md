@@ -1,7 +1,22 @@
-# INFORMACIÓN
-Este es un código de *prueba*
-* Ejercicio 1
-* Ejercicio 2 
+# Nombre del Proyecto
 
-1. Ejercicio 1
-2. Ejercicio 2 
+Breve descripción del proyecto: qué hace, para quién es, por qué es útil.
+
+## Características
+
+- Característica 1
+- Característica 2
+- Característica 3
+
+## Tecnologías utilizadas
+
+- Tecnología 1
+- Tecnología 2
+- Tecnología 3
+
+## Instalación
+
+```bash
+git clone https://github.com/tu-usuario/tu-repositorio.git
+cd tu-repositorio
+# Comandos adicionales según tu proyecto
